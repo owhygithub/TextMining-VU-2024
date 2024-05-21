@@ -1,0 +1,52 @@
+{
+    "0": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "I wouldn't be caught dead watching the NFL if it weren't for Taylor Swift.",
+        "topic": "sports"
+    },
+    "1": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Chris O'Donnell stated that while filming for this movie, he felt like he was in a Toys ''R'' Us commercial.",
+        "topic": "movie"
+    },
+    "2": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "The whole game was a rollercoaster ride, but Los Angeles Lakers ultimately persevered and won!",
+        "topic": "sports"
+    },
+    "3": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Zendaya slayed in Dune 2, as she does in all her movies.",
+        "topic": "movie"
+    },
+    "4": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "While my favorite player was playing this match and started off strongggg, it went downhill after Messi's injyry midgame.",
+        "topic": "sports"
+    },
+    "5": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "My uncle's brother's neighbor's cat's veterinarian David reads the communist manifesto in his spare time.",
+        "topic": "book"
+    },
+    "6": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "He said that The Great Gatsby is the best novell ever, and I was about to throw hands.",
+        "topic": "book"
+    },
+    "7": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "I could not look away from this train wrck of a movie, on February 14th of all days.",
+        "topic": "movie"
+    },
+    "8": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The film Everything Everywhere All At Once follows Evelyn Wang, a woman drowning under the stress of her family's failing laundromat.",
+        "topic": "movie"
+    },
+    "9": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "I just finished reading pride and prejudice which had me HOOOKED from the beginning.",
+        "topic": "book"
+    }
+}
